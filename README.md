@@ -70,6 +70,9 @@ Both models include:
 - Confusion matrix visualization
 - Example predictions with confidence scores
 
+
+![Screenshot 2024-11-07 141302](https://github.com/user-attachments/assets/6b62fc01-7bfd-47b5-93bd-950472959f04)
+
 ## Usage
 
 1. Install dependencies:
